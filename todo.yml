@@ -1,0 +1,30 @@
+	eisen blöcke und co in console loggen
+	eisen blöcke und co in log.cfg loggen
+	eisen blöcke und co in config speichern wenn diese items platziert werden und beim abreissen auß konfig entfernen sofern für beide aktionen der spieler im Builder modus ist
+	sollange eisen blöcke und co in config stehen und man im surival versucht diese abzubauen wirds gecanncelt und wenns der selbe spieler wie beim placen war wird dieser verwarnt
+
+	bestimmte items nutzen verbieten
+
+config für alles
+
+	error beim disablen des plugins weil wegen for schleife in onDisable
+	wenn spieler im buildermode und disconnected vorher ales back geben und reseten
+
+commands blöcken:
+	gm 1
+	gamemode 1
+	fly
+	heal
+	feed
+
+
+	config example for placed blocks
+
+	Placed:
+  		'1':
+    		playername: B1GSt4R
+    		x: 0
+    		y: 75
+    		z: 0
+    		world: world
+    		Material: IRON_BLOCK

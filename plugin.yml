@@ -1,0 +1,20 @@
+name: BuildingMode
+version: 1.7.5
+authors: [B1GSt4R]
+website: https://www.IT-BaseX.com/
+main: com.IT.BaseX.B1GSt4R.BuildingMode.Main.system
+commands:
+  build:
+    usage: </command>
+    description: Building Mode
+  spec:
+    usage: </command>
+    description: Spectator Mode
+    aliases: [spectator]
+  adminlogin:
+    usage: </command>
+    description: Admin Login
+    aliases: [al, adminl, alogin]
+  buildingmode:
+    usage: </command>
+    description: Version Checker
